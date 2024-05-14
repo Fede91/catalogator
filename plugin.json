@@ -1,0 +1,10 @@
+{
+  "name": "CATalogator",
+  "version": "1.0.0",
+  "description": "CATalogator is a plugin for Cheshire-Cat that allows users to assign metadata to documents during upload and apply filters to the declarative memory to focus responses on specific documents.",
+  "author_name": "Fede91",
+  "author_url": "https://fedesign.space",
+  "plugin_url": "https://github.com/Fede91/catalogator",
+  "tags": "cat, metadata, declarative memory, memory, filter, filters, upload, catalogator, catalog",
+  "thumb": "https://raw.githubusercontent.com/Fede91/catalogator/main/catalogator.png"
+}
